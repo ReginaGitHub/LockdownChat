@@ -6,8 +6,7 @@ At that time of creation, Nanyang Polytechnic is conducting remote e-supervised 
 Therefore, the creation of Lockdown Chat application enables students and invigilators to communicate conveniently and effectively during the conduct of remote e-supervised assessments.
 
 ### Preview
-Live deployment since 2020 :
-https://thelockdownchatapp.herokuapp.com/
+Live deployment since 2020
 
 After the chat room is created, copy and paste the same chat room URL link to another browser to chat and interact between the browsers (both in the same room).
 
